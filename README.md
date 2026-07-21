@@ -1,4 +1,4 @@
-<img width="2067" height="4863" alt="Product-page" src="https://github.com/user-attachments/assets/5229cecf-3551-4486-bb22-0e2209c64fce" />
+<img width="2217" height="1249" alt="Vanell-homepage" src="https://github.com/user-attachments/assets/41eff82d-02af-4318-934d-903815926960" />
 
 # Vanell Coffee — Ecommerce Platform (Case Study)
 
@@ -32,10 +32,10 @@ Built end-to-end as a freelance full-stack developer: the customer-facing storef
 - **Payments:** Stripe API
 
 ## Screenshots
-
+<img width="2067" height="4863" alt="Product-page" src="https://github.com/user-attachments/assets/5229cecf-3551-4486-bb22-0e2209c64fce" />
 <img width="2067" height="1635" alt="Check out page" src="https://github.com/user-attachments/assets/cbb10472-7f8a-41f2-a812-db133e106a20" />
 <img width="2067" height="1156" alt="Admin dashboards" src="https://github.com/user-attachments/assets/2ff9aa9a-5bea-43c1-bcea-0ac8e70f85a2" />
-<img width="2217" height="1249" alt="Vanell-homepage" src="https://github.com/user-attachments/assets/41eff82d-02af-4318-934d-903815926960" />
+
 
 
 
