@@ -33,11 +33,14 @@ Built end-to-end as a freelance full-stack developer: the customer-facing storef
 
 ## Screenshots
 <img width="2067" height="4863" alt="Product-page" src="https://github.com/user-attachments/assets/5229cecf-3551-4486-bb22-0e2209c64fce" />
+Checkout page
 <img width="2067" height="1635" alt="Check out page" src="https://github.com/user-attachments/assets/cbb10472-7f8a-41f2-a812-db133e106a20" />
-<img width="2067" height="1156" alt="Admin dashboards" src="https://github.com/user-attachments/assets/2ff9aa9a-5bea-43c1-bcea-0ac8e70f85a2" />
-
 Stripe Checkout shown in sandbox/test mode — supports Card, Apple Pay, Link, Klarna, and Zip
 <img width="2199" height="1251" alt="Stripe-payment" src="https://github.com/user-attachments/assets/2dc71ef5-5488-4182-959a-7c684f9d19e5" />
+Admin dashboards
+<img width="2067" height="1156" alt="Admin dashboards" src="https://github.com/user-attachments/assets/2ff9aa9a-5bea-43c1-bcea-0ac8e70f85a2" />
+
+
 
 
 
