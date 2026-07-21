@@ -31,10 +31,7 @@ Built end-to-end as a freelance full-stack developer: the customer-facing storef
 
 ## Screenshots
 
-![Homepage](vanell-screenshots/homepage.jpg)
-![Product Detail](vanell-screenshots/product-detail.jpg)
-![Cart](vanell-screenshots/cart.jpg)
-![Admin Inventory Dashboard](vanell-screenshots/admin-dashboard.jpg)
+
 
 
 
