@@ -1,8 +1,8 @@
 <img width="2217" height="1249" alt="Vanell-homepage" src="https://github.com/user-attachments/assets/41eff82d-02af-4318-934d-903815926960" />
 
-# Vanell Coffee — Ecommerce Platform (Case Study)
+# Vanell Coffee Ecommerce Platform (Case Study)
 
-Freelance full-stack project for a coffee roasting business — an e-commerce platform with integrated payments, inventory management, and business analytics.
+Freelance full-stack project for a coffee roasting business  an e-commerce platform with integrated payments, inventory management, and business analytics.
 
 > **Note:** This was built as client work, and the codebase has been handed over to the client, so it isn't available as a public repository. This case study describes the project, my role, and the technical approach.
 
